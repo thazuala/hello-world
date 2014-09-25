@@ -1,4 +1,6 @@
 hello-world
 ===========
+Hi, I'm thazuala
 
-this is my first time using github, thanks.
+Trying GitHub.
+
